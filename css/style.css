@@ -1,0 +1,357 @@
+header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(108, 184, 250);
+}
+header .logo img{
+    width: 130px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 40px;
+
+}
+header a,header i{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+margin-right: 10px;
+padding-top: 20px;
+
+}
+header .menu{
+    color: white;
+    height: 30px;
+    padding-top: 10px;
+    float: right;
+    padding-right: 10px;
+}
+header .menu a:hover{
+    color:orange;
+    cursor: pointer;
+}
+i:hover{
+    color:orange;
+    cursor: pointer;
+}
+/*********************************/
+.esas{
+    position: relative;
+    height: 700px;
+    
+    width: 100%;
+}
+
+.yaz h1 .yaz h2 .yaz h5 .yaz button{
+    display: inline-block;
+   
+
+  
+}
+.esas img{
+    width: 100%;
+   height: 100%;
+    
+}
+
+.yaz{
+    line-height: 5em;
+    position: absolute;
+   
+    z-index: 1;
+  
+    float:left;
+    width: 40%;
+  
+    color:rgb(244, 244, 250);
+
+   top: 40px;
+   left: 200px;
+}
+span{
+   margin-top:30px;
+    font-size: 50px;
+    padding: 40px;
+    height: 100px;
+
+}
+button{
+background-color: orange;
+padding: 15px;
+border: none;
+font-weight: bold;
+color: white;
+}
+.yaz h5{
+    font-size: 30px;
+}
+.yaz h1{
+    font-size: 70px;
+}
+/*********************************/
+.esas1{
+    width: 100%;
+}
+.esas1 a{
+    width: 100px;
+    height: 30px;
+    border: 2px solid red;
+    border-radius: 50px;
+    padding: 10px 20px;
+    
+}
+    
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+.juslogo{
+margin-left: 50%;
+}
+
+.divbutton{
+    margin-left:30%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.divbutton:hover{
+    cursor: pointer;
+}
+/**************************************/
+.triple{
+margin-top: 20px;
+    width: 100%;
+    height: 400px;
+}
+.triple img{
+    float: left;
+    width: 33.333%;
+    height: 400px;
+
+}
+.triple img:hover{
+    background-color: orange;
+    opacity: 0.8;
+}
+/*************************************/
+
+.container-email{
+    width: 100%;
+    background-color:royalblue;
+    height: 250px;
+    padding-top: 40px;
+}
+.container-email .row{
+    margin: 0 auto;
+    width: 90%;}
+.container-email .mail{
+    background-color: royalblue;
+    border: 2px solid royalblue;
+    border-bottom: 2px solid white;
+    width: 70%;
+    margin: 0 auto;
+}.container-email h4{
+    font-family: 'Bitter', serif;
+    text-align: justify;
+    margin:0 auto;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    color: white;
+    font-size: 30px;
+}
+.container-email a:link {
+    background-color: darkorange;
+}
+.container-email a:visited {
+    background-color:darkorange;
+}
+.container-email a:hover {
+    background-color: royalblue;
+}
+.container-email a:active {
+    background-color: blue;
+}
+.container-email a{
+    background:  darkorange;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 70px;
+    color: white;
+    padding:20px;
+    padding-left: 30px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+/*************************************/
+.musa{
+    width: 100%;
+    height: 600px;
+   
+    display: inline-block;
+}
+
+.sol {
+    background-image: url(https://colorlib.com/preview/theme/pixel/img/bg-img/3.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    width: 50%;
+    float: left;
+    font-family: "poppins",sans-serif;
+  }
+  .sag {
+    background-image: url(https://colorlib.com/preview/theme/pixel/img/bg-img/4.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    width: 50%;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "poppins",sans-serif;
+  }
+ 
+.musa  a{
+   
+  display:inline-block;
+  padding-top:250px;
+   margin-left:250px;
+    font-weight: 900;
+    font-size:70px;
+    color:white;
+    text-decoration: none;
+
+}
+.sag :hover{
+    color: rgb(192, 121, 71);
+    transition: 0.3s;
+}
+.sol :hover{
+    color: chocolate;
+    transition: 0.3s;
+}
+/***************************************/
+/***************************************/
+footer{
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+
+}
+footer span.logo{
+    float: left;
+}
+footer .footbody {
+    color: white;
+}
+footer .footbody .foot{
+    float: right;
+    width: 20%;
+    height: 200px;
+}
+footer .footbody .foot i{
+    font-size: 40px;
+    color: white;
+}
+footer .footbody span img{
+    margin-left: 50px;
+}
+footer .footbody .foot i:hover{
+
+    color: orange;
+}
+/***************************************/
+.son {
+    width: 100%;
+    float: left;
+    border-top: 1px solid white;
+    padding-top: 20px;
+    height: 30px;;
+}
+
+.son p{
+    padding-top: 20px;
+    float: left;
+}
+.son .footlink{
+    float: right;
+}
+.son a{
+    padding-right: 50px;
+color: white;
+text-decoration: none;
+}
+/*****************Get in touch*********************/
+.container-anket
+{
+    width: 100%;
+    background-color:white;
+    height: auto;
+    margin-bottom: 40px;
+   
+}
+.container-anket .row{
+    margin-left: 10%;
+    width: 90%;
+   
+}
+.container-anket .row input{    
+    padding-top: 10px;
+    height: 30px;
+}
+.container-anket .name , .email ,.subject ,.message
+{
+    background-color:whitesmoke ;
+    border: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    width: 70%;
+    margin: 0 auto;
+    margin: 10px;
+    text-align: center;
+}
+.container-anket .message{
+    height: 150px;
+}
+.container-anket .row a{
+    width: 30%;
+    margin: 0 auto;
+    margin-left: 30%;
+}
+.container-anket h2{
+    font-family: 'Bitter', serif;
+    text-align: justify;
+    margin:0 auto;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 30%;
+}
+.container-anket a:link {
+background-color: darkorange;
+}
+.container-anket a:visited {
+background-color:darkorange;
+}
+.container-anket a:hover {
+background-color: royalblue;
+}
+.container-anket a:active {
+background-color: blue;
+}
+.container-anket a{
+       background: deep darkorange;
+       text-align: center;
+      text-decoration: none;
+      margin-left: 70px;
+      color: white;
+      padding:20px;
+      padding-left: 30px;
+      font-family: 'Merriweather Sans', sans-serif;
+      text-align: center;
+}    
